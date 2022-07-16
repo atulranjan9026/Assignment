@@ -54,12 +54,11 @@ const App = () => {
 
             <div className=" row bg-danger text-light   mx-1 mb-2 pt-4 pb-3" >
                
-               <div className="col-4   pl-1" ><p className="text-center"> <CallRoundedIcon/><sub> Toll free 1800 200 1234 </sub>  </p></div>
+               <div className="col-4 pl-1" ><p className="text-center"> <CallRoundedIcon/><sub> Toll free 1800 200 1234 </sub>  </p></div>
 
-               <div className="col-4  " ><p className="text-center"><FacebookSharpIcon/><sub> www.facebook.com/cripumps</sub></p></div>
+               <div className="col-4  " ><p className="text-center"><FacebookSharpIcon/><sub> www. facebook. com/ cripumps</sub></p></div>
                
-               <div className="col-4  " ><p className="text-center"><LanguageSharpIcon/><sub> www.cripump.
-               com</sub>
+               <div className="col-4  " ><p className="text-center"><LanguageSharpIcon/><sub> www. cripump. com</sub>
                <a href="https://www.crigroups.com/"></a></p></div>
             </div>
 
